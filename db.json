@@ -1,11 +1,20 @@
 {
-  "devis": [
-    {
-      "id": 1,
-      "titre": "Contruction garage",
-      "lignes":[
-      {"description":"blah", "prixUnitaireHt":10, "tva":10},      {"description":"blah 2", "prixUnitaireHt":18, "tva":5.5}
-      ]
-    }
-  ]
+    "devis": [
+        {
+            "lignes": [
+                {
+                    "description": "blah",
+                    "prixUnitaireHt": 10,
+                    "tva": 10
+                },
+                {
+                    "description": "blah 2",
+                    "prixUnitaireHt": 18,
+                    "tva": 5.5
+                }
+            ],
+            "id": 1,
+            "titre": "Contruction garage"
+        }
+    ]
 }
