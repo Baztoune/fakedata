@@ -1,7 +1,6 @@
 {
     "devis": [
         {
-          "codeSms":"beton-123-rouge",
             "clientId": 1,
             "lignes": [
                 {
@@ -27,6 +26,7 @@
                 }
             ],
             "id": 1,
+            "codeSms": "beton-123-rouge",
             "titre": "Contruction garage"
         },
         {
@@ -65,8 +65,8 @@
                     "quantite": 100
                 }
             ],
-            "codeSms":"chene-456-bleu",
             "id": 2,
+            "codeSms": "chene-456-bleu",
             "titre": "Travaux divers dans la maison"
         }
     ],
