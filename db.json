@@ -1,6 +1,7 @@
 {
     "devis": [
         {
+          "codeSms":"beton-123-rouge",
             "clientId": 1,
             "lignes": [
                 {
@@ -18,7 +19,7 @@
                     "unite": "m2"
                 },
                 {
-                    "description": "Isolation",
+                    "description": "Fondations",
                     "prixUnitaireHt": 89,
                     "tva": 5.5,
                     "quantite": 100,
@@ -48,22 +49,23 @@
                     "quantite": 30
                 },
                 {
-                    "piece": "salon",
-                    "unite": "m2",
-                    "description": "Enl\u00e8vement des gravats",
-                    "prixUnitaireHt": 5,
-                    "tva": 5.5,
-                    "quantite": 100
-                },
-                {
                     "piece": "salle de bain",
                     "unite": "unite",
                     "description": "Fourniture et pose d'une baignoire",
                     "prixUnitaireHt": 837,
                     "tva": 20,
                     "quantite": 1
+                },
+                {
+                    "piece": "salon",
+                    "unite": "m2",
+                    "description": "Enl\u00e8vement des gravats",
+                    "prixUnitaireHt": 5,
+                    "tva": 5.5,
+                    "quantite": 100
                 }
             ],
+            "codeSms":"chene-456-bleu",
             "id": 2,
             "titre": "Travaux divers dans la maison"
         }
